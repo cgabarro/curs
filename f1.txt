@@ -2,5 +2,8 @@ aixo es un test. Curs 15 maig
 
 Ara es la segona prova
 blaksjdgsa
+=======
+creo un conflicto
+>>>>>>> 43eb77e1da016a6fb3ccd78657cbf0ea41b7cc3a
 
-aqui creo un altre conficte diferent
+ja esta aixo es el definitiu
